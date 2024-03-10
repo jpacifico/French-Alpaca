@@ -4,4 +4,4 @@ https://huggingface.co/jpacifico
 French-Alpaca is a series of LLMs in the 7B family.  
 You can find the Python scripts to use them on this repo.
 
-<img src="Assets/[French-Alpaca_500px.png" alt="french-alpaca" width="500"/>
+![image/jpeg](https://github.com/jpacifico/French-Alpaca/blob/main/Assets/French-Alpaca_500px.png?raw=true) 
